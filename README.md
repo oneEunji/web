@@ -1,1 +1,1 @@
-# web
+# aws_toy_project
